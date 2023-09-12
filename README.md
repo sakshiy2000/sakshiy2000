@@ -1,5 +1,7 @@
+# Hi there 👋, I'm Sakshi Yenurkar
+
 # 💫 About Me:
-I'm currently studying full-stack development<br>I'm looking for software and web development where I can collaborate with your company and use my skills set.<br>I currently completed my graduation in 2022 from RTMNU (Nagpur university) in Computer Engineering<br>Ask me about:- Software and web development.<br>Fun fact- I am lazy but intelligent and funny.
+<h3>I'm currently studying full-stack development<br>I'm looking for software and web development where I can collaborate with your company and use my skills set.<br>I currently completed my graduation in 2022 from RTMNU (Nagpur university) in Computer Engineering<br>Ask me about:- Software and web development.<br>Fun fact- I am lazy but intelligent and funny.</h3>
 
 
 ## 🌐 Socials:
